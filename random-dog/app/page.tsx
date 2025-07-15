@@ -1,6 +1,6 @@
 import { connection } from "next/server";
 import { fetchImage } from "./fetch-image";
-import { CatImage } from "./cat0image";
+import { CatImage } from "./cat-image";
 
 
 export default async function Home() {
