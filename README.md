@@ -23,7 +23,7 @@ TS_knowlege/
     └── README.md            # プロジェクト固有のREADME
 ```
 
-## 🐱 Random Cat Image App
+##  Random Cat Image App
 
 ### 概要
 
@@ -39,11 +39,11 @@ The Cat API を使用してランダムな猫画像を表示する Web アプリ
 
 ### 主な機能
 
-- 🎲 ランダムな猫画像の表示
-- 🔄 ボタンクリックで新しい画像を取得
-- 📱 レスポンシブデザイン
-- ⚡ Server Actions と Client Components の適切な使い分け
-- 🔒 型安全な API 通信
+-  ランダムな猫画像の表示
+-  ボタンクリックで新しい画像を取得
+-  レスポンシブデザイン
+-  Server Actions と Client Components の適切な使い分け
+-  型安全な API 通信
 
 ### 技術的な特徴
 
@@ -52,7 +52,7 @@ The Cat API を使用してランダムな猫画像を表示する Web アプリ
 - **型安全性**: カスタム型ガードでランタイム安全性を確保
 - **エラーハンドリング**: API レスポンスの適切な検証
 
-## 🚀 セットアップと実行
+##  セットアップと実行
 
 ### 前提条件
 
@@ -104,7 +104,7 @@ npm run start    # 本番サーバー起動
 npm run lint     # ESLintでコード品質チェック
 ```
 
-## 📚 学習ポイント
+##  学習ポイント
 
 このプロジェクトで学べる TypeScript/Next.js の概念：
 
@@ -130,7 +130,7 @@ npm run lint     # ESLintでコード品質チェック
    - ESLint 設定
    - Tailwind CSS 4
 
-## 🎯 今後の拡張予定
+##  今後の拡張予定
 
 - [ ] 画像のお気に入り機能
 - [ ] 画像のダウンロード機能
